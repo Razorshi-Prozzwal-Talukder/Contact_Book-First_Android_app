@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name"></string>
+    <!--<string name="under_history">+8807124xxxxxx                 Incoming: 1m 47s</string>-->
+
+    <string-array name="contact_names">
+
+        <item>Razorshi</item>
+        <item>Naflu</item>
+        <item>Shagota</item>
+        <item>Rahul</item>
+        <item>Laboni</item>
+        <item>Nirjhor</item>
+        <item>Marshia</item>
+        <item>Mifta</item>
+        <item>Samiha</item>
+        <item>Mamun</item>
+        <item>Robin</item>
+        <item>Faisal</item>
+        <item>Jhinuk</item>
+        <item>Nahiyan</item>
+        <item>Anika</item>
+        <item>Nazmul</item>
+        <item>Binoy</item>
+        <item>Kakoli</item>
+        <item>Anik</item>
+        <item>Prova</item>
+        <item>Taskin</item>
+        <item>Soumen</item>
+        <item>Sabbir</item>
+        <item>Jhalak</item>
+        <item>Sachin</item>
+        <item>Ashiq</item>
+        <item>Bijoy</item>
+        <item>Alamin</item>
+        <item>Gupto</item>
+        <item>Juthi</item>
+
+    </string-array>
+
+    <string-array name="call_history">
+
+        <item>5 Dec 2:45 PM</item>
+        <item>4 Dec 2:45 AM</item>
+        <item>3 Dec 3:45 PM</item>
+        <item>2 Dec 4:45 AM</item>
+        <item>1 Dec 5:45 PM</item>
+        <item>28 Nov 6:45 PM</item>
+        <item>26 Nov 7:45 AM</item>
+        <item>24 Nov 8:45 AM</item>
+        <item>22 Nov 9:45 PM</item>
+        <item>20 Nov 10:45 AM</item>
+        <item>19 Nov 11:45 PM</item>
+        <item>17 Nov 12:45 AM</item>
+        <item>15 Nov 1:45 PM</item>
+        <item>13 Nov 2:45 AM</item>
+        <item>11 Nov 3:45 PM</item>
+        <item>1 Nov 4:45 AM</item>
+        <item>25 Oct 5:45 PM</item>
+        <item>24 Oct 6:45 AM</item>
+        <item>23 Oct 7:45 PM</item>
+        <item>22 Oct 8:45 AM</item>
+        <item>21 Oct 9:45 PM</item>
+        <item>20 Oct 10:45 AM</item>
+        <item>19 Oct 11:45 PM</item>
+        <item>19 Oct 12:45 PM</item>
+        <item>14 Oct 2:45 PM</item>
+        <item>12 Oct 2:45 AM</item>
+        <item>9 Sep 2:45 PM</item>
+        <item>5 Sep 2:45 AM</item>
+        <item>2 Sep 2:45 PM</item>
+        <item>1 Sep 2:45 AM</item>
+
+    </string-array>
+
+</resources>

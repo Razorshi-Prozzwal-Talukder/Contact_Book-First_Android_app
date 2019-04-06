@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:padding="2dp"
+    android:background="#d7d2d2"
+    android:orientation="vertical">
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="5dp"    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="#ffff"
+        android:orientation="vertical"
+        android:padding="0dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+8801724-xxxxxx"
+            android:textColor="#de0d0c0c"
+            android:textSize="25sp"
+            android:padding="3dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bangladesh"
+            android:textSize="15sp"
+            android:layout_marginLeft="5dp"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="300dp"
+        android:src="@drawable/chat4"
+        android:padding="12dp"
+        />
+
+
+</RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:layout_marginTop="80dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="#ffff"
+            android:orientation="vertical"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="QR Code"
+                android:textColor="#de0d0c0c"
+                android:textSize="25sp"
+                android:padding="5dp"/>
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="300dp"
+            android:src="@drawable/ic_right"
+            android:padding="12dp"
+            />
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
